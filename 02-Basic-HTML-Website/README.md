@@ -14,5 +14,5 @@ Preview:
 
 ```
 cd "Frontend Projects/02-Basic-HTML-Website"
-py -3 -m http.server 8000; # open http://localhost:8000
+py -3 -m http.server 5500; # open http://127.0.0.1:5500
 ```
