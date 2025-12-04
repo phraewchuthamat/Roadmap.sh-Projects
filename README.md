@@ -14,9 +14,9 @@
 
 | # | ชื่อโปรเจ็กต์ (Project Name) | สถานะ (Status) | ลิงก์ไปยัง Source Code | ลิงก์ไปยังหน้า Live Preview |
 |---|-----------------------------|----------------|------------------------|-----------------------------|
-| **01** | **Single-Page-CV** | ✅ Completed | [`01-Single-Page-CV/`](/01-Single-Page-CV) | [🔗 Live Demo](https://phraewchuthamat.github.io/Roadmap.sh-projects/01-Single-Page-CV/index.html) |
-| **02** | **Basic-HTML-Website** | ✅ Completed | [`02-Basic-HTML-Website/`](/02-Basic-HTML-Website) | [🔗 Live Demo](https://phraewchuthamat.github.io/Roadmap.sh-projects/02-Basic-HTML-Website/index.html) |
-| **03** | **Personal-Portfolio** | ⏳ In Progress | [`03-Personal-Portfolio/`](/03-Personal-Portfolio) | *[ยังไม่มี Live Demo]* |
+| **01** | **Single-Page-CV** | Completed | [`01-Single-Page-CV/`](https://github.com/phraewchuthamat/Roadmap.sh-projects/tree/main/01-Single-Page-CV) | [Live Demo](https://phraewchuthamat.github.io/Roadmap.sh-projects/01-Single-Page-CV/index.html) |
+| **02** | **Basic-HTML-Website** | Completed | [`02-Basic-HTML-Website/`](https://github.com/phraewchuthamat/Roadmap.sh-projects/tree/main/02-Basic-HTML-Website) | [Live Demo](https://phraewchuthamat.github.io/Roadmap.sh-projects/02-Basic-HTML-Website/index.html) |
+| **03** | **Personal-Portfolio** | Completed | [`03-Personal-Portfolio/`](https://github.com/phraewchuthamat/Roadmap.sh-projects/tree/main/03-Personal-Portfolio) | ([Live Demo](https://phraewchuthamat.github.io/Roadmap.sh-projects//03-Personal-Portfolio/index.html)) |
 
 ---
 
