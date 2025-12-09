@@ -23,7 +23,7 @@
 | **02** | **Basic-HTML-Website** | **[Project Link](https://roadmap.sh/projects/basic-html-website)** | ✅ Completed | [Live Demo](https://phraewchuthamat.github.io/Roadmap.sh-projects/02-Basic-HTML-Website/index.html) |
 | **03** | **Personal-Portfolio** | **[Project Link](https://roadmap.sh/projects/portfolio-website)** | ✅ Completed | [Live Demo](https://phraewchuthamat.github.io/Roadmap.sh-projects/03-Personal-Portfolio/index.html) |
 |**04**|**Changelg-Component** | **[Project Link]
-(https://roadmap.sh/projects/changelog-component)**| [Live Deme](https://phraewchuthamat.github.io/Roadmap.sh-projects/04-Changelog-Component/index.html)|  
+(https://roadmap.sh/projects/changelog-component)**|✅ Completed |[Live Deme](https://phraewchuthamat.github.io/Roadmap.sh-projects/04-Changelog-Component/index.html)|  
 > **หมายเหตุสำคัญ:** คอลัมน์ **"Roadmap.sh Project URL"** ได้ถูกเพิ่มตามข้อกำหนดที่ระบุว่า "README file must contain the project URL" เพื่อให้ผู้ประเมินสามารถอ้างอิงถึงโจทย์ต้นฉบับได้โดยตรง
 
 ---

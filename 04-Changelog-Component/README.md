@@ -4,7 +4,7 @@ This is my design changelog component showcasing my projects and skills.
 
 ## About
 A simple and clean portfolio website built with HTML and CSS.
-https://roadmap.sh/projects/portfolio-website
+https://roadmap.sh/projects/changelog-component
 ## Technologies Used
 - HTML5
 - CSS3
